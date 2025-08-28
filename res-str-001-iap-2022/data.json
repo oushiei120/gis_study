@@ -1,0 +1,23 @@
+{
+  "course_title":"Geographic Information System (GIS) Tutorial",
+  "course_description":"Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.",
+  "course_description_html":"Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.",
+  "site_uid":"80865953-144b-4d0f-8ff3-8ebcb2e8a29e",
+  "legacy_uid":"","instructors": [{
+    "first_name":"MIT Libraries GIS Services Group",
+    "last_name":" ",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"MIT Libraries GIS Services Group"}],"department_numbers":[],
+  "learning_resource_types":["Activity Assignments","Lecture Notes","Instructor Insights","Editable Files"],
+  "topics":[["Social Science","Geography"]],
+  "mit_learn_topics":[],
+  "primary_course_number":"RES.STR-001",
+  "extra_course_numbers":"",
+  "term":"January IAP",
+  "year":"2022",
+  "level":["Non-Credit"],
+  "hide_download":false,
+  "image_src":"./static_resources/res-str001iap22.png",
+  "course_image_metadata":{"body":"","content_type":"resource","draft":false,"file":"/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/res-str001iap22.png","file_size":89219,"file_type":"image/png","image_metadata":{"caption":"Students learn to use two programs to generate maps. (Courtesy of U.S. Energy Information Administration. Image is in the public domain.)","credit":"Courtesy of U.S. Energy Information Administration. Image is in the public domain.","image-alt":"Map with colored dots."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","resourcetype":"Image","title":"res-str001iap22.png","uid":"f0b5c741-4cbb-44a1-b65f-1be580e02f6d","video_files":{"video_captions_file":"","video_thumbnail_file":"","video_transcript_file":""},"video_metadata":{"video_speakers":"","video_tags":"","youtube_description":"","youtube_id":""}}}
+

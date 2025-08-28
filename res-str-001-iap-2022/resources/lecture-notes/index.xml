@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIS Level 1 Presentation Slides (PDF)</title>
+      <link>/resources/mitres_str001iap22_level1_pres/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitres_str001iap22_level1_pres/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GIS Level 1 Presentation Slides with Notes (PDF)</title>
+      <link>/resources/mitres_str001iap22_level1_presentation_notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitres_str001iap22_level1_presentation_notes/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GIS Level 2 Presentation Slides (PDF)</title>
+      <link>/resources/mitres_str001iap22_level2_pres/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitres_str001iap22_level2_pres/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GIS Level 2 Presentation Slides with Notes (PDF)</title>
+      <link>/resources/mitres_str001iap22_level2_pres_notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mitres_str001iap22_level2_pres_notes/data.json</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

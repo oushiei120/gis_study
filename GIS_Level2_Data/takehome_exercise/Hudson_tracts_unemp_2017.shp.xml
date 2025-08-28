@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20191023</CreaDate><CreaTime>10432000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20191023" Time="104320">CalculateField Hudson_tracts_unemp_2017 Unemp_rate "[A17005_003] / [A17005_001]" VB #</Process></lineage></DataProperties></Esri></metadata>

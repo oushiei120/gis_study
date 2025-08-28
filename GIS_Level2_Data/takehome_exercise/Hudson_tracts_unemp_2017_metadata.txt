@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12215092
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2017 (5-Year Estimates)
+Dataset:          Social Explorer Tables:  ACS 2017 (5-Year Estimates)
+Tables:
+
+      1. Unemployment Rate for Civilian Population in Labor Force 16 Years and Over
+         Universe:  Civilian Population in Labor Force 16 Years and Over:
+         Name:      A17005
+         Variables:
+            A17005_001:   Civilian Population in Labor Force 16 Years and Over:
+            A17005_002:      Employed
+            A17005_003:      Unemployed
+
+
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      
+      STATEFP:        State (FIPS)
+      COUNTYFP:       County (FIPS)
+      TRACTCE:        Census Tract
+      GEOID:          Geographic identifier (FIPS)
+      A17005_001:     Civilian Population in Labor Force 16 Years and Over:
+      A17005_002:     Civilian Population in Labor Force 16 Years and Over: Employed
+      A17005_003:     Civilian Population in Labor Force 16 Years and Over: Unemployed
+      Unemp_rate:     Rate of unemployment
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2019
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12215092
+
+If you have any questions contact info@socialexplorer.com
